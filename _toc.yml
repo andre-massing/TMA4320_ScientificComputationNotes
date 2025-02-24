@@ -21,8 +21,8 @@ chapters:
   - file: chapter_ode/AdaptiveNuMeODE
   - file: homework/SIR_exercise
 - file: chapter_fourier/FourierPreliminaries
-  # sections:
+  sections:
+  - file: chapter_fourier/DiscreteFourierTransform
   # - file: chapter_fourier/FourierSeries
-  # - file: chapter_fourier/FourierTransform
   # - file: chapter_fourier/FFT
 - file: references
