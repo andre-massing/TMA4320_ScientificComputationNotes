@@ -47,6 +47,9 @@ launch_buttons:
   notebook_interface: "jupyterlab"  # or "classic"
   # Define the JupyterHub button for Binder
   binderhub_url: "https://mybinder.org"
+  jupyterhub_url: "https://tma4400.apps.stack.it.ntnu.no/"
+  binderhub_url: "https://mybinder.org"
+  colab_url: "https://colab.research.google.com"
   # Define the JupyterHub button for Thebe
   thebe: true
   # thebe_config:
